@@ -7,6 +7,8 @@ import ErrorBoundary from "../errorBoundary/ErrorBoundary";
 
 import decoration from '../../resources/img/vision.png';
 
+//Need change all to HOOKS
+
 class App extends Component {
     state = {
         selectedChar: null
